@@ -3,6 +3,8 @@
 This tool uses [OpenAI Whisper](https://github.com/openai/whisper) to automatically generate subtitles (`.srt` files) from audio or video files.  
 All transcription is done **locally**, ensuring privacy, accuracy, and fast processing.
 
+![image](https://github.com/user-attachments/assets/d9648684-c5eb-4000-94dc-87ef637267c5)
+
 ---
 
 ## 🧩 Requirements
